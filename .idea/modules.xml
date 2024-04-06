@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PJATK-GUI.iml" filepath="$PROJECT_DIR$/.idea/PJATK-GUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/T1/T1.iml" filepath="$PROJECT_DIR$/T1/T1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T10/T10.iml" filepath="$PROJECT_DIR$/T10/T10.iml" />
       <module fileurl="file://$PROJECT_DIR$/T2/T2.iml" filepath="$PROJECT_DIR$/T2/T2.iml" />
       <module fileurl="file://$PROJECT_DIR$/T3/T3.iml" filepath="$PROJECT_DIR$/T3/T3.iml" />
       <module fileurl="file://$PROJECT_DIR$/T4/T4.iml" filepath="$PROJECT_DIR$/T4/T4.iml" />
