@@ -3,18 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PJATK-GUI.iml" filepath="$PROJECT_DIR$/.idea/PJATK-GUI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T1/T1.iml" filepath="$PROJECT_DIR$/T1/T1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T10/T10.iml" filepath="$PROJECT_DIR$/T10/T10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T11/T11.iml" filepath="$PROJECT_DIR$/T11/T11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T12/T12.iml" filepath="$PROJECT_DIR$/T12/T12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T2/T2.iml" filepath="$PROJECT_DIR$/T2/T2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T3/T3.iml" filepath="$PROJECT_DIR$/T3/T3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T4/T4.iml" filepath="$PROJECT_DIR$/T4/T4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T5/T5.iml" filepath="$PROJECT_DIR$/T5/T5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T6/T6.iml" filepath="$PROJECT_DIR$/T6/T6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T7/T7.iml" filepath="$PROJECT_DIR$/T7/T7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T8/T8.iml" filepath="$PROJECT_DIR$/T8/T8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/T9/T9.iml" filepath="$PROJECT_DIR$/T9/T9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_001/T_001.iml" filepath="$PROJECT_DIR$/T_001/T_001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_002/T_002.iml" filepath="$PROJECT_DIR$/T_002/T_002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_003/T_003.iml" filepath="$PROJECT_DIR$/T_003/T_003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_004/T_004.iml" filepath="$PROJECT_DIR$/T_004/T_004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_005/T_005.iml" filepath="$PROJECT_DIR$/T_005/T_005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_006/T_006.iml" filepath="$PROJECT_DIR$/T_006/T_006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_007/T_007.iml" filepath="$PROJECT_DIR$/T_007/T_007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_008/T_008.iml" filepath="$PROJECT_DIR$/T_008/T_008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_009/T_009.iml" filepath="$PROJECT_DIR$/T_009/T_009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_010/T_010.iml" filepath="$PROJECT_DIR$/T_010/T_010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_011/T_011.iml" filepath="$PROJECT_DIR$/T_011/T_011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T_012/T_012.iml" filepath="$PROJECT_DIR$/T_012/T_012.iml" />
     </modules>
   </component>
 </project>

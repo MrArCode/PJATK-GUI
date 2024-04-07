@@ -1,4 +1,4 @@
-public class StudentGroup {
+public class StudentGroupTest {
     public static void main(String[] args) {
         Student s1 = new Student("Kowalski", "Jan", 2000);
         Student s2 = new Student("Nowacka", "Janina", 2005);
