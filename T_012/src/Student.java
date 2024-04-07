@@ -2,7 +2,7 @@ public class Student {
     private String nazwisko;
     private String imie;
     private int rokUrodzenia;
-    private static int numer = 1;
+    private static int licznik = 1;
     private int numerStudenta;
     private String grupaStudenta;
 
@@ -10,8 +10,8 @@ public class Student {
         this.nazwisko = nazwisko;
         this.imie = imie;
         this.rokUrodzenia = rokUrodzenia;
-        this.numerStudenta = numer;
-        numer++;
+        this.numerStudenta = licznik;
+        licznik++;
         grupaStudenta = "";
     }
 
